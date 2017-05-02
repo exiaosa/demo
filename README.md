@@ -1,3 +1,3 @@
-# test
-This is just a readme  test
+#Demo
+This is just the code demo for Xinning Ren.
 
