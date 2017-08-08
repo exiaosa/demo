@@ -1,4 +1,4 @@
-#Demo
-This is just the code demo for Xinning Ren.
+#Demo  
+This is just the code demo for Xinning Ren (Jenny).  
 
-The codes in these files are only parts, not for a complete project.
+The codes in these files are only snippets, not for a complete project.
